@@ -1,0 +1,8 @@
+/home/umedjon/githab/cpp-basic-structures/cpp-23-24-string/build/CMakeFiles/cpp-23-24-string.dir
+/home/umedjon/githab/cpp-basic-structures/cpp-23-24-string/build/CMakeFiles/test.dir
+/home/umedjon/githab/cpp-basic-structures/cpp-23-24-string/build/CMakeFiles/edit_cache.dir
+/home/umedjon/githab/cpp-basic-structures/cpp-23-24-string/build/CMakeFiles/rebuild_cache.dir
+/home/umedjon/githab/cpp-basic-structures/cpp-23-24-string/build/CMakeFiles/list_install_components.dir
+/home/umedjon/githab/cpp-basic-structures/cpp-23-24-string/build/CMakeFiles/install.dir
+/home/umedjon/githab/cpp-basic-structures/cpp-23-24-string/build/CMakeFiles/install/local.dir
+/home/umedjon/githab/cpp-basic-structures/cpp-23-24-string/build/CMakeFiles/install/strip.dir

@@ -1,0 +1,1 @@
+/usr/bin/g++ -pedantic -Werror -Wextra -fsanitize=address -fsanitize=undefined -std=c++17 -Wl,--dependency-file=CMakeFiles/cpp-23-24-string.dir/link.d "CMakeFiles/cpp-23-24-string.dir/cpp-23-24-string.cpp.o" "CMakeFiles/cpp-23-24-string.dir/tests.cpp.o" -o cpp-23-24-string  -Wl,-rpath,:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: /usr/lib/libgtest.so.1.16.0
